@@ -3,7 +3,7 @@ output: .retype
 url: https://ligma-alpha.github.io/docs/
 branding:
   title: Ligma Alpha
-  label: Docs
+  logo: static/ligma.png
 links:
   - text: Home
     link: /
