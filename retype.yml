@@ -9,3 +9,6 @@ links:
     link: /
 footer:
   copyright: "&copy; Copyright {{ year }}. All rights reserved."
+edit:
+  repo: "https://github.com/ligma-alpha/docs"
+  label: Edit this page
