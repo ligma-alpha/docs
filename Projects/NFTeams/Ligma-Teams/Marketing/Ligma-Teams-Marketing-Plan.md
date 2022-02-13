@@ -8,9 +8,14 @@ To take advantage of this, it makes sense to build on this opportunity and gain 
 
 This can be done in many ways, and can bring several benefits such as:
 
-*Networking effect - exposure can bring new relationships and opportunities that could be beneficial to Ligma
-*Future marketing benefit for Ligma - the marketing effort we produce now will build a reputation and a following within the NFTeams community (and hopefully further abroad) that can be used for any other future marketing efforts that may be associated to future Ligma projects (NFT drops/tools etc)
-*Keeping our finger on the pulse - to create effective NFTeams related marketing content, we’ll need to make sure we’re fully up to date with everything related to the project. *This will keep us on our toes when following updates, new developments etc
+* Networking effect - exposure can bring new relationships and opportunities that could be beneficial to Ligma
+
+* Future marketing benefit for Ligma - the marketing effort we produce now will build a reputation and a following within the NFTeams community (and hopefully further abroad) that can be used for any other future marketing efforts that may be associated to future Ligma projects (NFT drops/tools etc)
+
+* Keeping our finger on the pulse - to create effective NFTeams related marketing content, we’ll need to make sure we’re fully up to date with everything related to the project.
+
+* This will keep us on our toes when following updates, new developments etc
+
 *It’ll be fun innit 
 
 With that in mind, it makes sense to come up with a simple plan in order to maximise the effectiveness of our efforts. The plan will not be extensive and is not designed to add any unnecessary workload that will take the fun out of doing this. 
