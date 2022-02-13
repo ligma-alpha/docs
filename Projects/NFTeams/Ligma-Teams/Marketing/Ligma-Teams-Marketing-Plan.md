@@ -1,4 +1,5 @@
-# Why market Ligma Teams?
+# Ligma Teams Marketing Plan
+## Why market Ligma Teams?
 
 After Ligma came together to launch an NFTeams syndicate it gives Ligma an opportunity to be a ‘presence’ in the NFTeams space. 
 
